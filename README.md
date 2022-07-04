@@ -1,6 +1,6 @@
 # firstflutterapp
+Project preview: ![unknown](https://user-images.githubusercontent.com/97989240/177169676-3a344e40-3d56-4670-8dfd-f56ba4cc95ed.png)
 
-A new Flutter project.
 
 ## Getting Started
 
